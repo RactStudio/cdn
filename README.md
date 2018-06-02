@@ -1,2 +1,2 @@
 # cdn
- RactStudio's Image and File CDN (content delivery network). http://cdn.ractbd.com   - EXPIRE
+ RactStudio's Image and File CDN (content delivery network). https://ractstudio.com   --- EXPIRE ...
